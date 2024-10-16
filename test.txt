@@ -1,7 +1,3 @@
 This is a test file 
 
-<<<<<<< HEAD
 aoufvhaeiugbaeriupbg
-=======
-blah blah blah
->>>>>>> branch-a
